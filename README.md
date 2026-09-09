@@ -90,4 +90,4 @@ Ao iniciar, o programa carrega automaticamente 3 livros e 2 utilizadores de exem
 
 ## Autor
 
-Desenvolvido por **idurcio dos santos Vasco Alfredo cumbane**, estudante de Licenciatura em Engenharia Informática, no âmbito do Trabalho de Campo de Introdução a Algoritmos e Programação, UnISCED.
+Desenvolvido por **Idurcio dos Santos Vasco Alfredo Cumbane**, estudante de Licenciatura em Engenharia Informática, no âmbito do Trabalho de Campo de Introdução a Algoritmos e Programação, UnISCED.
